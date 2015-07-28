@@ -10,6 +10,7 @@ of playboy models of the period 1953 - 2009.
 The original data is located at:
 [[Excel 120KB]](http://archive.wired.com/special_multimedia/2009/st_infoporn_1702)  
 Prepared dataset can be found at [[csv 16 KB]](https://yadi.sk/d/FCGEKxaKeqDrS)  
+Source code: [Github](https://github.com/anthony01/devdpp.git)  
 Models are arranged by month of publication.
 
 ### Application functionality
